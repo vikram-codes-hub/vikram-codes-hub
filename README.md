@@ -4,7 +4,6 @@
 
 <br/>
 
-<!-- Typing SVG - using a more reliable service -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=500&lines=🚀+Full+Stack+Developer;🤖+AI+%26+GenAI+Engineer;⛓️+Web3+%26+Blockchain+Builder;🔥+300%2B+DSA+Problems+Solved;🏅+Dean%27s+List+%7C+Patent+Filed)](https://git.io/typing-svg)
 
 <br/>
@@ -119,16 +118,23 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=vikram-codes-hub&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikram-codes-hub&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikram-codes-hub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikram-codes-hub&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
 
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=vikram-codes-hub&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=ffffff&dates=888888" />
+
+<img width="68%" src="https://streak-stats.demolab.com?user=vikram-codes-hub&theme=tokyonight&hide_border=true" />
+
 </div>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vikram-codes-hub&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&area_color=1a2a4a" />
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vikram-codes-hub&bg_color=1a1b27&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
+
 </div>
 
 ---
@@ -137,9 +143,11 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=vikram-codes-hub&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=vikram-codes-hub&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" />
 
 </div>
+
+<br/>
 
 <div align="center">
 
