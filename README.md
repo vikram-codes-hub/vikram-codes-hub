@@ -119,7 +119,6 @@
 
 <div align="center">
 
-<!-- Stats Card - self hosted instance, more reliable -->
 <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=vikram-codes-hub&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=vikram-codes-hub&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" />
 
@@ -139,27 +138,15 @@
 
 ---
 
-## 🏆 Trophies
+## 🏆 Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=vikram-codes-hub&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" />
-
-</div>
-
----
-
-## 🎯 Achievements
-
-<div align="center">
-
-| 🏅 | Achievement |
-|:---:|:---|
-| 📜 | **Patent Filed** — Innovating in AI/Tech |
-| 🎓 | **Dean's List** — Academic Excellence at MUJ |
-| 💡 | **300+ DSA Problems** — LeetCode · Codeforces · GFG |
-| 🚀 | **Production Deployed** — KAVACH · CodeSense · TradeSphere |
-| ⛓️ | **Web3 Builder** — Smart Contracts on Ethereum |
+![Patent](https://img.shields.io/badge/📜_Patent_Filed-AI%2FTech_Innovation-gold?style=for-the-badge&labelColor=1a1b27)
+![Deans List](https://img.shields.io/badge/🎓_Dean's_List-Academic_Excellence_@_MUJ-blue?style=for-the-badge&labelColor=1a1b27)
+![DSA](https://img.shields.io/badge/💡_300%2B_DSA-LeetCode_%7C_Codeforces_%7C_GFG-orange?style=for-the-badge&labelColor=1a1b27)
+![Deployed](https://img.shields.io/badge/🚀_Production_Deployed-KAVACH_%7C_CodeSense_%7C_TradeSphere-green?style=for-the-badge&labelColor=1a1b27)
+![Web3](https://img.shields.io/badge/⛓️_Web3_Builder-Smart_Contracts_on_Ethereum-purple?style=for-the-badge&labelColor=1a1b27)
 
 </div>
 
