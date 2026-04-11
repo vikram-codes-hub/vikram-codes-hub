@@ -119,9 +119,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikram-codes-hub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikram-codes-hub&layout=compact&theme=tokyonight&hide_border=true" />
+<!-- Stats Card - self hosted instance, more reliable -->
+<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=vikram-codes-hub&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=vikram-codes-hub&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -139,7 +139,7 @@
 
 ---
 
-## 🏆 Achievements & Trophies
+## 🏆 Trophies
 
 <div align="center">
 
@@ -147,7 +147,9 @@
 
 </div>
 
-<br/>
+---
+
+## 🎯 Achievements
 
 <div align="center">
 
