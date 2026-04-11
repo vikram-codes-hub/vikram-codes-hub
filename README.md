@@ -27,7 +27,7 @@
 ```yaml
 👨‍💻 Name       :  Vikram Singh Gangwar
 🎓 University :  Manipal University Jaipur
-📚 Degree     :  B.Tech Computer Science
+📚 Degree     :  B.Tech Information Technology
 📍 Location   :  Jaipur, Rajasthan 🇮🇳
 💼 Status     :  Open to Internships
 🏅 Honours    :  Dean's List | Patent Filed
@@ -105,6 +105,7 @@
 
 ### ⛓️ Blockchain
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
 
 </div>
 
