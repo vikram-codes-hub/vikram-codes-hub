@@ -200,8 +200,8 @@
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats-salesp07.vercel.app/api?username=vikram-codes-hub&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&title_color=7dd3fc&icon_color=a78bfa" />
-<img height="175em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=vikram-codes-hub&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&title_color=7dd3fc" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=vikram-codes-hub&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&title_color=7dd3fc&icon_color=a78bfa" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikram-codes-hub&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&title_color=7dd3fc" />
 
 <img width="70%" src="https://streak-stats.demolab.com?user=vikram-codes-hub&theme=tokyonight&hide_border=true&ring=7dd3fc&fire=fbbf24&currStreakLabel=7dd3fc" />
 
